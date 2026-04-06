@@ -6,7 +6,7 @@ Nécessite un compte composé d'un <code>login</code> et d'un <code>mot de passe
 Un compte ne peut qu'être créé par un <code>Administrateur</code> ou supérieur.
 <hr>
 <h5>Plusieurs grades avec différentes fonctionnalités :</h5>
-<p><i>Tout compte, peut importe de son rôle, peut mondifier son mot de passe.</i>
+<p><i>Tout compte, peut importe de son rôle, peut modifier son mot de passe.</i>
 <br><img width="1920" height="1080" alt="Modifier Profil Utilisateur" src="https://github.com/user-attachments/assets/824af338-84a3-449c-bb21-3c96f566d25c" /></p>
 <ul>
   <li><u>Utilisateur :</u>
@@ -64,8 +64,8 @@ Un compte ne peut qu'être créé par un <code>Administrateur</code> ou supérie
 <p>Une fois la base de données complettement fini, il était tant de se mettre au site.
 J'ai utilisé <u>Visual Studio Code</u> pour coder les pages WEB. Je me suis servi de <strong>PHP</strong>, pour la communication entre l'utilisateur et la base de données, couplé au <strong>HTML</strong> et avec un léger <strong>CSS</strong>. Tout n'est pas parfait, mais c'est fonctionnel.</p>
 <p>L'architecture du code PHP est composé de condition et d'évennement. Je me sert aussi de sa technologie de <code>SESSION</code> pour stocker les informations de l'utilisateur lors de sa visite, facilitant aussi le transfère d'informations pour naviguer entre les pages autorisés ou non en fonction du compte.</p>
-<p>L'<strong>HTML</strong> est composé notamment en <code>div</code> pour découper les infomations en robriques à l'écran.</p>
-<strong><p>Tout le code est commenter, vous pouvez vous baladez dans les fichier de code pour le comprendre.</p></strong>
+<p>L'<strong>HTML</strong> est composé notamment en <code>div</code> pour découper les infomations en rubriques à l'écran.</p>
+<strong><p>Tout le code est commenté, vous pouvez vous baladez dans les fichier de code pour le comprendre.</p></strong>
 <hr>
 <h4>À vous de testez</h4>
 <p><u>Tout les fichiers sont disponibles dans ce répertoire .</u> Pour tester le projet, vous pouvez télécharger tout les fichiers <code>.php</code> en gardant la même arborescence que présenté dans ce répertoire Github.</p>
@@ -77,4 +77,4 @@ J'ai utilisé <u>Visual Studio Code</u> pour coder les pages WEB. Je me suis ser
 | Administrateur | admin | admin |<br>
 | Super Administrateur | super-admin | super-admin |<br>
 <hr>
-<p>Retrouvez aussi ce projet en ligne mit en fonctionnement sur https://lagthe.free.nf/Gestionnaire_de_Tickets/, (les utilisateurs de test n'existent évidemment pas sur la version en ligne).</p>
+<p>Retrouvez aussi ce projet en ligne mis en fonctionnement sur https://lagthe.free.nf/Gestionnaire_de_Tickets/, (les utilisateurs de test n'existent évidemment pas sur la version en ligne).</p>
