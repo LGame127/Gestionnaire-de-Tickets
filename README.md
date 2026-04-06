@@ -2,4 +2,4 @@
 
 <h4>Ce projet propose une solution de création de tickets, de son traitment, et de son suivi.</h4>
 
-<p>Plusieurs grades avec différant fonctionnalité :</p>
+Plusieurs grades avec différant fonctionnalité :
