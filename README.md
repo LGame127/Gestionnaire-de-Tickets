@@ -68,7 +68,7 @@ J'ai utilisé <u>Visual Studio Code</u> pour coder les pages WEB. Je me suis ser
 <strong><p>Tout le code est commenter, vous pouvez vous baladez dans les fichier de code pour le comprendre.</p></strong>
 <hr>
 <h4>À vous de testez</h4>
-<p><u>Tout les fichiers sont disponibles dans ce répertoir.</u> Pour tester le projet, vous pouvez télécharger tout les fichiers <code>.php</code> en gardant la même arborescence que présenté dans ce répertoir Github.</p>
+<p><u>Tout les fichiers sont disponibles dans ce répertoire .</u> Pour tester le projet, vous pouvez télécharger tout les fichiers <code>.php</code> en gardant la même arborescence que présenté dans ce répertoire Github.</p>
 <p>Une fois téléchargé, vous vouvez vous munir du code de créations des tables et éléments pour la base de données (<code>gestionnaire_de_tickets.sql</code>). <strong>⚠️N'oubliez pas de modifiez le nom et le chemin de connexion à la base de données dans les fichiers <code>.php</code> en fonction de l'endroit où se ttrouve la base de données.⚠️</strong> Si vous voulez tout tester en local, je vous propose de vous servir, comme je l'ai fait, de <strong>XAMPP</strong>. (Pour vous évitez une recherche : https://youtu.be/3mP3wiz6vN4?si=doJCX2YJj6jb3dkF (N'ésiter pas à chercher par vous même si le tuto ne répond pas à vos questions.))</p>
 <h5>Login et mdp des utilisateur Test :</h5>
 | Rôle | Login | Mot de passe |<br>
