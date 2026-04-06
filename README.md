@@ -2,7 +2,7 @@
 
 <h3>Ce projet propose une solution de création de tickets, de son traitment, et de son suivi.</h3>
 
-<h6>Plusieurs grades avec différentes fonctionnalités :</h6>
+<h5>Plusieurs grades avec différentes fonctionnalités :</h5>
 <p><i>Tout utilisateur, peut importe de son rôle, peut mondifier son mot de passe.</i></p>
 <ul>
   <li><u>Utilisateur :</u></li>
