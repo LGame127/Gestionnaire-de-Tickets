@@ -2,4 +2,7 @@
 
 <h3>Ce projet propose une solution de création de tickets, de son traitment, et de son suivi.</h3>
 
-Plusieurs grades avec différant fonctionnalité :
+Plusieurs grades avec différentes fonctionnalités :
+
+<li><u>Utilisateur :</u></li>
+Il peut créer un ticket
