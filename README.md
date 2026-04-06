@@ -77,4 +77,4 @@ J'ai utilisé <u>Visual Studio Code</u> pour coder les pages WEB. Je me suis ser
 | Administrateur | admin | admin |<br>
 | Super Administrateur | super-admin | super-admin |<br>
 <hr>
-<p>Retrouvez aussi ce projet en ligne mit en fonctionnement sur https://lagthe.free.nf/Gestionnaire_de_Tickets/, (les utilisateurs de test n'existe évidemment pas sur la version en ligne).</p>
+<p>Retrouvez aussi ce projet en ligne mit en fonctionnement sur https://lagthe.free.nf/Gestionnaire_de_Tickets/, (les utilisateurs de test n'existent évidemment pas sur la version en ligne).</p>
