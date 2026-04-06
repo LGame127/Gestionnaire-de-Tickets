@@ -1,10 +1,10 @@
-<h1>Gestionnaire de Tickets - Projet 1ère Année de Bachelor</h1>
+<center><h1>Gestionnaire de Tickets - Projet 1ère Année de Bachelor</h1></center>
 
 <h3>Ce projet propose une solution de création de tickets, de son traitment, et de son suivi.</h3>
 Nécessite un compte composé d'un <code>login</code> et d'un <code>mot de passe</code>.
 <img width="1920" height="1080" alt="Page de connexion" src="https://github.com/user-attachments/assets/3dac4fb3-8f8d-4a3d-b955-6c8eab8c3b95" />
 Un compte ne peut qu'être créé par un <code>Administrateur</code> ou supérieur.
-<hr></hr>
+<hr>
 <h5>Plusieurs grades avec différentes fonctionnalités :</h5>
 <p><i>Tout compte, peut importe de son rôle, peut mondifier son mot de passe.</i>
 <br><img width="1920" height="1080" alt="Modifier Profil Utilisateur" src="https://github.com/user-attachments/assets/824af338-84a3-449c-bb21-3c96f566d25c" /></p>
@@ -49,3 +49,17 @@ Un compte ne peut qu'être créé par un <code>Administrateur</code> ou supérie
     <i>Exemple de requête :<br><img width="1920" height="1080" alt="Exemple SELECT Console SQL Super Admin" src="https://github.com/user-attachments/assets/167ddd18-4b9a-401e-a426-6b839ebd9cb7" /></i>
   </ul>
 </ul>
+<hr>
+<center><h4>Synopsis</h4></center>
+<h5>Base de données</h5>
+<p>La premère étape a était de créer la base de données. Je me suis d'abord servie de <u>Looping</u> pour réalisé le <strong>MCD</strong>.</p>
+<i>Schéma :</i>
+<img width="1416" height="601" alt="Modèle Entité-Association" src="https://github.com/user-attachments/assets/3a230972-2adc-4236-a3df-9247eee43084" />
+<img width="1416" height="632" alt="UML" src="https://github.com/user-attachments/assets/5ae1f097-ffc5-4551-8710-c5ce0c29462e" />
+<img width="1416" height="630" alt="MLD" src="https://github.com/user-attachments/assets/77a87a88-765b-401a-9d39-d207bb3eb697" />
+<p>(Vous trouverez le <strong>dictionnaire de données</strong> en PDF dans les documents mis à disposition.)</p>
+<p>Une fois fini, j'ai pû exporter le modèle en <strong>Script LLD</strong> pour créer la base de données dans <u>phpMyAdmin</u>. Pour appliquer un serveur local, je me suis servie de <u>XAMPP</u>, me permétant d'appliquer <stong>Apache</stong> et <strong>MySQL</strong> en local.</p>
+<hr>
+<h5>PHP</h5>
+<p>Une fois la base de données complettement fini, il était tant de se mettre au site.
+J'ai codé en <PHP complé </p>
