@@ -52,14 +52,29 @@ Un compte ne peut qu'être créé par un <code>Administrateur</code> ou supérie
 <hr>
 <center><h4>Synopsis</h4></center>
 <h5>Base de données</h5>
-<p>La premère étape a était de créer la base de données. Je me suis d'abord servie de <u>Looping</u> pour réalisé le <strong>MCD</strong>.</p>
+<p>La premère étape a était de créer la base de données. Je me suis d'abord servi de <u>Looping</u> pour réalisé le <strong>MCD</strong>.</p>
 <i>Schéma :</i>
 <img width="1416" height="601" alt="Modèle Entité-Association" src="https://github.com/user-attachments/assets/3a230972-2adc-4236-a3df-9247eee43084" />
 <img width="1416" height="632" alt="UML" src="https://github.com/user-attachments/assets/5ae1f097-ffc5-4551-8710-c5ce0c29462e" />
 <img width="1416" height="630" alt="MLD" src="https://github.com/user-attachments/assets/77a87a88-765b-401a-9d39-d207bb3eb697" />
 <p>(Vous trouverez le <strong>dictionnaire de données</strong> en PDF dans les documents mis à disposition.)</p>
-<p>Une fois fini, j'ai pû exporter le modèle en <strong>Script LLD</strong> pour créer la base de données dans <u>phpMyAdmin</u>. Pour appliquer un serveur local, je me suis servie de <u>XAMPP</u>, me permétant d'appliquer <stong>Apache</stong> et <strong>MySQL</strong> en local.</p>
+<p>Une fois fini, j'ai pû exporter le modèle en <strong>Script LLD</strong> pour créer la base de données dans <u>phpMyAdmin</u>. Pour appliquer un serveur local, je me suis servi de <u>XAMPP</u>, me permétant d'appliquer <u>Apache</u> et <u>MySQL</u> en local.</p>
 <hr>
-<h5>PHP</h5>
+<h5>Les pages WEB</h5>
 <p>Une fois la base de données complettement fini, il était tant de se mettre au site.
-J'ai codé en <PHP complé </p>
+J'ai utilisé <u>Visual Studio Code</u> pour coder les pages WEB. Je me suis servi de <strong>PHP</strong>, pour la communication entre l'utilisateur et la base de données, couplé au <strong>HTML</strong> et avec un léger <strong>CSS</strong>. Tout n'est pas parfait, mais c'est fonctionnel.</p>
+<p>L'architecture du code PHP est composé de condition et d'évennement. Je me sert aussi de sa technologie de <code>SESSION</code> pour stocker les informations de l'utilisateur lors de sa visite, facilitant aussi le transfère d'informations pour naviguer entre les pages autorisés ou non en fonction du compte.</p>
+<p>L'<strong>HTML</strong> est composé notamment en <code>div</code> pour découper les infomations en robriques à l'écran.</p>
+<strong><p>Tout le code est commenter, vous pouvez vous baladez dans les fichier de code pour le comprendre.</p></strong>
+<hr>
+<h4>À vous de testez</h4>
+<p><u>Tout les fichiers sont disponibles dans ce répertoir.</u> Pour tester le projet, vous pouvez télécharger tout les fichiers <code>.php</code> en gardant la même arborescence que présenté dans ce répertoir Github.</p>
+<p>Une fois téléchargé, vous vouvez vous munir du code de créations des tables et éléments pour la base de données (<code>gestionnaire_de_tickets.sql</code>). <strong>⚠️N'oubliez pas de modifiez le nom et le chemin de connexion à la base de données dans les fichiers <code>.php</code> en fonction de l'endroit où se ttrouve la base de données.⚠️</strong> Si vous voulez tout tester en local, je vous propose de vous servir, comme je l'ai fait, de <strong>XAMPP</strong>. (Pour vous évitez une recherche : https://youtu.be/3mP3wiz6vN4?si=doJCX2YJj6jb3dkF (N'ésiter pas à chercher par vous même si le tuto ne répond pas à vos questions.))</p>
+<h5>Login et mdp des utilisateur Test :</h5>
+| Rôle | Login | Mot de passe |<br>
+| Utilisateur | utilisateur | utilisateur |<br>
+| Technicien | technicien | technicien |<br>
+| Administrateur | admin | admin |<br>
+| Super Administrateur | super-admin | super-admin |<br>
+<hr>
+<p>Retrouvez aussi ce projet en ligne mit en fonctionnement sur https://lagthe.free.nf/Gestionnaire_de_Tickets/, (les utilisateurs de test n'existe évidemment pas sur la version en ligne).</p>
